@@ -17,3 +17,6 @@ A participatory system is resilient, and has system processes, such as decentral
 ## Copyright & License
 
 Copyright (c) 2015 by [Christopher Allen](http://www.LifeWithAlacrity.com), licensed CC-BY ([Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/))
+
+![https://creativecommons.org/licenses/by/4.0/](https://i.creativecommons.org/l/by/4.0/88x31.png) 
+
