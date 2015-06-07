@@ -1,6 +1,6 @@
 # Participatory Ecosystem
 
-Public website for www.ParticipatoryEcosystem.com, sharing a definition of what qualities are required to have a Participatory Ecosystem. STATUS: Release
+Public website for http://www.ParticipatoryEcosystem.com, sharing a definition of what qualities are required to have a Participatory Ecosystem. STATUS: Release, sharing a definition of what qualities are required to have a Participatory Ecosystem. STATUS: Release
 
 ## Definition of Participatory Ecosystem
 
