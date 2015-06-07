@@ -13,3 +13,7 @@ It has strong support for creating, sharing and increasing the production of goo
 A participatory system is resilient, and has system processes, such as decentralization, to prevent bad actors. Every stakeholder in a participatory ecosystem believes that their goods and services matter, and feel some degree of social connection and community with one another (at least they care what other people think about what they produce.) Not every stakeholder must produce, but all must believe that they are free to produce when ready and what they contribute will be appropriately valued.
 
 (source: Created by [Christopher Allen](http://www.LifeWithAlacrity.com), a mashup of Henry Jenkins’  ["participatory culture"](http://en.wikipedia.org/wiki/Participatory_culture) and James Moore’s ["business ecosystem"](http://en.wikipedia.org/wiki/Business_ecosystem) definitions).
+
+## Copyright & License
+
+Copyright (c) 2015 by [Christopher Allen](http://www.LifeWithAlacrity.com), licensed CC-BY ([Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
